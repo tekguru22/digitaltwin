@@ -1,21 +1,3 @@
-# Core Streamlit
 streamlit
-
-# Visualization
-matplotlib
-seaborn
-plotly
-
-# Data handling
-pandas
 numpy
-
-# Optional (if your app involves ML or more scientific stuff)
-scikit-learn
-scipy
-
-# For file handling or image processing (optional)
-Pillow
-
-# For progress bars or loops
-tqdm
+matplotlib
